@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
 
     <!-- This is the title element. The contents inside will appear on the tab name of the website! -->
-    <title>Vikram Grid | Welcome</title>
+    <title>CSS Grid | Welcome</title>
 
     <!-- Here, we are connecting our css to this current HTML file. -->
     <link rel="stylesheet" href="style.css">
